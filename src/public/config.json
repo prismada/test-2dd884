@@ -1,0 +1,8 @@
+{
+  "name": "Test",
+  "tagline": "Test",
+  "example": "Test",
+  "buttonText": "Search",
+  "workingText": "Searching...",
+  "statusText": "Test is working..."
+}
